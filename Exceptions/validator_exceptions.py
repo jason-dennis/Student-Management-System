@@ -1,0 +1,2 @@
+class ErrorValidator(Exception):
+    pass

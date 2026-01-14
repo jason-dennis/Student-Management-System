@@ -1,0 +1,2 @@
+class UiError(Exception):
+    pass
