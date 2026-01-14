@@ -1,0 +1,5 @@
+10;Analiza;Dennis Ognean
+10;Analiza;Dennis Ognean
+9;Analiza;Paul Luput
+9;Analiza;Dennis Ognean
+7;Fp;Paul Luput
